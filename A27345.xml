@@ -1,0 +1,202 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Honourable Committee of Kent</title>
+            <author>T. B. (Thomas Belke)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27345</idno>
+            <idno type="STC">Wing B1794</idno>
+            <idno type="STC">ESTC R25919</idno>
+            <idno type="EEBO-CITATION">09288563</idno>
+            <idno type="OCLC">ocm 09288563</idno>
+            <idno type="VID">42623</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27345)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42623)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1301:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Honourable Committee of Kent</title>
+                  <author>T. B. (Thomas Belke)</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: Thomas Belke.</note>
+                  <note>Pages 1-4 are personal legal queries; pages 5-8 are a petition for general circulation, composed by Belke and addressed to Parliament, asking liberty of conscience and equality in church government.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Liberty of conscience.</term>
+               <term>Church polity.</term>
+               <term>Law --  Great Britain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:42623:1" rendition="simple:additions"/>
+            <head>To the Honourable COMMITTEE OF KENT.</head>
+            <opener>
+               <salute>Gentlemen;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>Y ſervice (in all humillity) preſented unto you. For Accommodating (ſo farre, as neceſſarily may bee,) of your deſires, I give you to wilt, That I have ſeene, and peruſed a Printed ſheet of Paper, with this Inſcription; or Title, <hi>(viz.) A Payre of Gold-weights, &amp;c.</hi> And with this ſubſcrip<g ref="char:EOLhyphen"/>tion, or Poſtſcrip, <hi>(viz.)</hi> This <hi>Appeal,</hi> and <hi>Demonſtration,</hi> I com<g ref="char:EOLhyphen"/>mend to your Circumſpect Peruſall, to mend, and Ratifie in forme, <hi>&amp;c.</hi> with my name ſet at the foot of the Poſtſcript. There be<g ref="char:EOLhyphen"/>ing ſome little varying therein from any Maniſcript of mine.</p>
+            <p>And ſince our Saviour doth propound, to ſuch as profeſſe his Name, as well to be <hi>wiſe as Scrpents, as innocent, as Doves;</hi> And ſince neither the Law of God, the Law of Nations, nor the Law of Na<g ref="char:EOLhyphen"/>ture, doth require, or exact from any, a ſelfe Accuſation; And be<g ref="char:EOLhyphen"/>ing ſtrongly perſwaded, that it hath not entred into the thoughts of your hearts, or the hearts of any of you, to draw any thing from me, either by word or writing, to be any wayes prejudiciall unto met. Therefore, for the whole matter, in the Printed Paper contained, I ſhall propoſe, neither Negatively<g ref="char:punc">▪</g> nor Affirmatively; But as Proſecu<g ref="char:EOLhyphen"/>tion ſhall be therein, I ſhall deſire but the common benefit and privi<g ref="char:EOLhyphen"/>ledge
+<pb n="2" facs="tcp:42623:2" rendition="simple:additions"/> of a Native Subject, in a vindicative, or defenſive way, &amp;c. As Occurrences ſhall Legally preſent.</p>
+            <p>But, to ſatisfie your Expectations, touching my ſenſe of the Scope, and extent of what is contained in the ſaid Printed Paper; I con<g ref="char:EOLhyphen"/>ceive, the firſt part thereof wholly, as well as ſome other parts, and paſſages therein, in part, concernes in ſpeciall manner Mr. <hi>Dennes</hi> Practiſes, and expreſſions at the Seſſions holden at the Caſtle of <hi>Canterbury,</hi> for the Eaſt Diviſion of the County of <hi>Kent,</hi> 15. <hi>July,</hi> 1645. Touching which, I ſhall deſire (as occurrences ſhall permit,) a Legall Liberty of <hi>Appeale;</hi> And not out of any prejudice to the Perſon of him, or of any other man whatſoever; No<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> that I make any ſcruple, or difference, from whoſe hand, or by what Power, the Stroak of Perſecution is directed. But my <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>peciall Ayme, and purpoſe therein, is, by all lawfull wayes to indeavour to unfold, and bring to a cleere and Palpable diſcovery, to my owne, and the common Eye of the Subjects of this Kingdome; Whether my ſelf, and others, which have been Perſecuted, (ſince the Repeal of thoſe Conſcience-binding Lawes, by the Lords and Commons in Parliament, As in the Preface to the <hi>Directory</hi> appears,) have been ſo perſecuted by Law, or without Law.</p>
+            <p>And if by Law, That then there may be an inceſſant indeavour, by Petitionary, and Supplicatory way, to procure a further, and fi<g ref="char:EOLhyphen"/>nall Repeal of thoſe, and others of the ſame Affinity, if any ſuch are yet in being; Put if <hi>Divine Providence,</hi> have ſo diſpoſed, that the ſtings of ſuch Conſcience-binding Laws, be already plucked out; that then my ſelf, and the whole Kingdome, may never be wanting, to give God the Honour, and men their Reſpective dues therein.</p>
+            <p>If any Paſſage, or expreſſion therein, ſhall be taken, as to Reflect upon any; either Courts, Perſons, or Perſon in particular, I con<g ref="char:EOLhyphen"/>ceive it is more then by any ordinary Conſtruction can be naturally drawn from any part, or Paſſage therein, there being (to my remem<g ref="char:EOLhyphen"/>brance, neither Court, Perſons, Perſon, time, nor practiſes, (other then as before mentioned, touching Mr. <hi>Denne,</hi> the then Judge,) ſpe<g ref="char:EOLhyphen"/>cified therein.</p>
+            <p>Only, I ſhall with all due Reſpects unto you, Preſent to your Ju<g ref="char:EOLhyphen"/>dicious conſiderations theſe three Queries enſuing.
+<pb n="3" facs="tcp:42623:2" rendition="simple:additions"/> 
+               <hi>(Viz.)</hi>
+            </p>
+            <p>
+               <label>QUERE I.</label> 
+               <hi>Firſt,</hi> If a man be injoyned, to enter into Obligations of vaſt ſummes, to conform himſelf to promiſcuous, and illegall Reſtrictions of his Birth<g ref="char:EOLhyphen"/>right Priviledges, And ſhall in Obedience thereunto, both confine and con<g ref="char:EOLhyphen"/>forme himſelf, ſo farre, that no colour of advantage can be taken for Non-Conformity, And ſo of courſe, the Party diſcharged from ſuch Obligati<g ref="char:EOLhyphen"/>ons. And notwithſtanding, upon the diſcharge therefrom, there be Premo<g ref="char:EOLhyphen"/>nitions, and threats from the Judge, for Non-Conformity, (as before) to inflict the ſame Puniſhments.</p>
+            <p>
+               <label>QUERE. II.</label> 
+               <hi>Secondly,</hi> If a man Appeal to a Court, That if hee have offended the Law, hee deſires to be puniſh'd by Law; if otherwiſe, That by the juſtice of the Court hee may be acquitted, And notwithſtanding Sentence be pro<g ref="char:EOLhyphen"/>nounced againſt ſuch a one, contrary to Law.</p>
+            <p>
+               <label>QUERE. III.</label> Thirdly, <hi>If a wrong party, be Indicted and Areſted, [for exerciſing Religious Dueties,</hi> &amp;c.] <hi>committed to Priſon, brought forth before a Court of Judicature, claimes the Priviledge of a Subject, as in the ſame caſe is due unto him: And notwithſtanding the Court ſhall proſecute againſt, ſentence, and Re-impriſon ſuch a one.</hi>
+            </p>
+            <p>What is any wiſe intimated touching the miſcarriage of Tranſ<g ref="char:EOLhyphen"/>actors, It appeares to me to Reflect equally from both parties, now in conteſtation. And as Arbitrary exactions cannot be Tranſubſtan<g ref="char:EOLhyphen"/>tiated into Subjects <hi>Priviledges</hi> by mutation of Termes, and not things: So for my own part, 'Tis my hearty deſire, that they may rather, [by mutuall Act of Oblivion,] be buryed in the Land of forgetfulneſſe, then to be muſtered up, to be exhibited [in their Numbers or Natures,] to the Publick view of the World.</p>
+            <pb n="4" facs="tcp:42623:3" rendition="simple:additions"/>
+            <p> For the Seventeen Digeſtions, or conditionall Propoſitions, there<g ref="char:EOLhyphen"/>in Inſerted, (I conceive,) What is Demonſtrated in them, being ſe<g ref="char:EOLhyphen"/>riouſly pondered, and digeſted, may by Chriſtian compoſition, pro<g ref="char:EOLhyphen"/>duce wolſome Ingredients, to worke the Pulſe of this Kingdom to a more complying Conſtitution, for the future Peace, and Well-being thereof, then yet appeares; as well as be found to be a Soveraign An<g ref="char:EOLhyphen"/>tidote againſt Forreine Attempts, and diſcontents.</p>
+            <p>And what in any of them may ſeem to have Referrence, to the Proof of things, ſpoken or acted. I ſuppoſe, they would not have been inſerted, without (I feare,) but too manifeſt Evidence for the Proof of them. And I (humbly) conceive, the onely way and meanes, to prevent Uncoth Conſequences of ſuch inconſiderate and Raſh Practiſes, were by clipping the wings, by publicke diſavowing of them. I deſire not to multiply words; I (humbly) commit you to the Protection of the Almighty. <hi>And Reſt,</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>Aſheford,</hi> 
+                  <date>28. Febr. 1645.</date>
+               </dateline>
+               <signed>At your ſervice, where not in Active, there in Paſſive Obedience. <hi>THO. BELKE.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb n="5" facs="tcp:42623:3" rendition="simple:additions"/>
+            <head>
+               <hi>To the Right Honourable the Houſe of</hi> PEERES, With the Honourable Houſe of COMMONS: IN PARLIAMENT ASSEEMBLED.</head>
+            <opener>Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat whereas you have mutually, by many former and lat<g ref="char:EOLhyphen"/>ter Declarations, and Manifeſtations, ſet forth your deep ſenſe of the deplorable condition of this languiſh<g ref="char:EOLhyphen"/>ing Kingdome, Thereby preſenting unto us the Conſi<g ref="char:EOLhyphen"/>deration thereof, to bring us home (as wee humbly conceive,) to a ſelf Examination, duely to ponder the large proportion that every one of our ſinnes have contributed, not onely in the kindling, but likewiſe in the increaſing, and aggravating the Prodigious flames of our unnaturall Diviſions; and as upon mature deliberation, (weigh<g ref="char:EOLhyphen"/>ing and digeſting our Condition,) wee plainly behold the diſtemper of this divided Kingdome, ſtill yeelding forth much combuſtable matter to conſume it ſelf: So likewiſe, by the waves of our Nationall and Domeſtick Diſtractions, (unleſſe God worke a wonderfull change both in things, and Perſons, to quench the coales of jealouſie in our Spirits, and calme the now raging ſtormes,) we can expect no other Iſſue, But that the ſhip of all future happineſſe to this King<g ref="char:EOLhyphen"/>dome, will be Totally ſwallowed up (as in a Deluge,) by the Waves of our preſent Commotions, and this not long ſince flouriſhing Kingdome, (having unnaturally eaten out its owne Bowells,) be left as a <hi>Golgatha,</hi> or field of blood. And ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce you joyntly profeſſe, your Ardent deſires are, Impartially to Render to God, the things which
+<pb n="6" facs="tcp:42623:4" rendition="simple:additions"/> are Gods, <hi>And to Caeſar the things that are Caeſars.</hi> Wee your humble Supplicants, [as not daring to caſt a ſtone at the ſinnes of the times, By reaſon of the guilt which every one of our ſinnes have contracted therein: And as having a fellow-feeling of our Brethrens miſeries, ſo being ready, and deſirous to caſt in our <hi>mytes,</hi> to accommodate them, and to prevent the like miſery to our ſelves,] are imboldned humbly to Demonſtrate unto you, our apprehenſions and deſires enſuing; As fouded upon that Royall Law, of <hi>Loving God above all, and our Neigh<g ref="char:EOLhyphen"/>bour as our ſelves.</hi> [<hi>
+                  <g ref="char:V">Ʋ</g>iz.</hi>]</p>
+            <p>
+               <hi>Firſt,</hi> That we are heartily willing, to part with what proportion ſoe<g ref="char:EOLhyphen"/>ver, of our Eſtates, Reall or Perſonall, with the reſt of the Kingdome, [in an equall, and proportionable manner,] for the defraying of the <g ref="char:V">Ʋ</g>aſt de<g ref="char:EOLhyphen"/>triments, and expences occaſioned by our unhappy diviſions.</p>
+            <p>
+               <hi>Secondly,</hi> Touching the <hi>Militia,</hi> and <hi>Judicatory,</hi> and other weighty Affaires of this Kingdome; That if there ſhall be ſuch a ſatisfactory Bal<g ref="char:EOLhyphen"/>lancing of them. [As <hi>Caeſar</hi> may diſcerne, an Equivalent Power, as in<g ref="char:EOLhyphen"/>veſted in him to defend; and the Subjects a like Equivalent Power, as in<g ref="char:EOLhyphen"/>veſted in them to preſerve, and each ſubject being ſet upon levill ground touching Native Priviledges,] wee humbly conceive, It might be as a Soveraigne Antidote, to worke the Pulſe of this gaſping Kingdome, to beat more hopefully, and complyantly then now it doth.</p>
+            <p>
+               <hi>Thirdly,</hi> That as [wee humbly conceive,] the Holy One of <hi>Iſrael,</hi> is not to be limmitted, either to the time, or manner of receiving into his Vineyard; but revealeth himſelf to his in ſuch manner, and meaſure, and at ſuch houre, As he hath in his fore-knowledge ordained, [who being our Alone Lord and Maſter, before whom wee ſhall ſtand, or fall;] So as we dare not intrench upon Gods Prerogative, to take Dominion over the Faith of our Brethren; Nevertheleſſe, wee [humbly,] conceive it an unqueſtion<g ref="char:EOLhyphen"/>able duty; And ſhall be ready at all times, to the utmoſt of our Powers, to maintain and defend Authority, and all that ſhall ſubmitt, to what they ſhall tender in ſpirituall matters, in their owne enjoyments from <g ref="char:V">Ʋ</g>iolation, and diſturbance of All men whatſoever.</p>
+            <p>And, as wee Recent, the frequent Alarmes, (ſounded into our Eares, by your <hi>DECLARATIONS,</hi> and <hi>Manifeſtati<g ref="char:EOLhyphen"/>ons,)</hi> Are intended, as invitations, to put us upon a ſerious in<g ref="char:EOLhyphen"/>quiry of our Eſtates; So to quicken us in our duties, [as Patients,] to make our Addreſſes to you, [as our Phyſitians next under God,] to
+<pb n="7" facs="tcp:42623:4" rendition="simple:additions"/> acquaint you, as with the grounds of the progreſſe of our Mallady, and diſtemper; So with our preſent Conſtitution and feares, which ſeem to ſurprize us, Touching future inconveniences, and Enormities flowing in upon us. Wherefore wee are further imboldned, Humbly to preſent, to your ſerious Conſiderations, Theſe our Apprehenſi<g ref="char:EOLhyphen"/>ons, and deſires enſuing. [<hi>
+                  <g ref="char:V">Ʋ</g>iz.</hi>]</p>
+            <p n="1">1. That you would be pleaſed, to ſet forth, A cleere, and Genuine ſatisfaction, how farre, [as you conceive,] the Scripture doth in<g ref="char:EOLhyphen"/>right the People, to a free, and common Voice, in the Election of their Miniſters.</p>
+            <p n="2">2. That by reaſon of the diſproportion of Livings, wee finde it cauſes no ſmall trouble, in many Places, and not a little dejection to divers people; In regard that many Miniſters, are ſo eaſily drawne a<g ref="char:EOLhyphen"/>way [by the Load-ſtone of worldly Lucre,] Even as often as a greater Living preſents it ſelf, Which [wee humbly conceive,] if more E<g ref="char:EOLhyphen"/>qually divided, would in a great meaſure be prevented.</p>
+            <p n="3">3. That if Collectors were appointed in every <hi>Lath,</hi> or other di<g ref="char:EOLhyphen"/>viſion, according to the Wiſedome and diſcretion of ſuch as ſhould be thereunto Aſſigned, and all the Livings brought into a Common Banck, or Treaſury; And there diſtributed, as in equity ſhould be found moſt meet,] both for the preſent maintenance of the Miniſtry; And likewiſe in ſome competent proportion, [as occaſioned,] for the comfortable livelyhood of their Widdowes, and Education of their Children; Wee humbly conceive, that as by that meanes; The whole man might be the better taken up, in the worke of the Miniſtery; So, many Jarrings, and Diſcords, which are but too too frequent be<g ref="char:EOLhyphen"/>twixt Miniſters, and People, would ceaſe for preſent, and be preven<g ref="char:EOLhyphen"/>ted for Future.</p>
+            <p>
+               <hi>The Subſcribers to this Supplication, and Demonſtration, [humbly] crave permiſſion for but onely Twenty men of the County of <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> to preſent the ſame to the King, and</hi> Parliament.</p>
+         </div>
+         <div type="letter">
+            <pb n="8" facs="tcp:42623:5" rendition="simple:additions"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THIS <hi>Supplication, &amp;c.</hi> (As I have declared, for the ſatisfaction of the Honourable Committee of KENT, or whomſoever it may concerne,) was of my owne compoſing: and that many moneths ſince. Onely thus much I ſhall acquaint you with; That it was certified to the ſaid Committee, that I had advan<g ref="char:EOLhyphen"/>ced it with a great deale of Violence, in ſo much that Ten thouſand hands were ſubſcribed to it. When (in Truth,) at that time, neither my owne hand, was ſubſcribed to it, nor (to my knowledge, or beleif, the hand of any man whatſoever. [I dare not ſo much derogate from the Scout<g ref="char:EOLhyphen"/>maſters of the Black cloath, as not to rancke them amongſt the chiefeſt Proficients in the Art of Multiplication.] It makes my heart to tremble, to ponder the unhappy conſequences of giving or edit to naked Reports. I deſire not to make further Applycation. But ſhall alwayes pray; That wee may each one endeavour to amend one. That ſuch a Reformation may bee effected, as wee have ſo much ſpoken of, and ſo little Acted towards, And Reſt.</p>
+            <closer>
+               <signed>Yours, in all Chriſtian Obligations, <hi>THOMAS BELKE</hi>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:42623:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
